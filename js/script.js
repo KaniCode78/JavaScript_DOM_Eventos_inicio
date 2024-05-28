@@ -9,17 +9,17 @@ console.log(heading);
 
 //querySelectorAll
 
-const enlaces = document.querySelectorAll('.navegacion a'); 
-console.log(enlaces);
+const enlaces = document.querySelectorAll('.navegacion a');
 
-// enlaces[0].textContent = 'Nuevo texto para enlace'
+
+enlaces[0].textContent = 'Nuevo texto para enlace'
 
 // enlaces[0].classList.add('nueva-clase');
 
 // enlaces[0].href = 'http://google.com/search'
 
 
-const nuevoEnlace = document.createElement()
+// const nuevoEnlace = document.createElement()
 
 
 
